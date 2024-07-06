@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Beijing-China"
-title                    : "WU Huidong"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "WU Huidong"
 description              : &description "personal description"
