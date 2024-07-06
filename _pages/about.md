@@ -12,7 +12,7 @@ I am a joint Ph.D. candidate at the University of Chinese Academy of Sciences (U
 
 News
 ======
-- [2024.06] Our work was recognized as an Outstanding Paper at the 16th Annual Conference on Decision Sciences.
+- [2024.06] Our work was recognized as an Outstanding Paper at the 16th Annual Conference on Decision Sciences in China.
 - [2024.06] Our work **Citation Advantage of Positive Words** is published on Scientometrics
 
 
