@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a joint Ph.D candidate of University of Chinese Academy of Sciences (UCAS) and City University of Hong Kong (CityU). Previously, I got my bachelor degree from Central University of Finance and Economics (CUFE) in 2021. My research interests include Graph Neural Network, Data Mining, and Combinatorial Optimization.
+I am a joint Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS) and the City University of Hong Kong (CityU). I earned my bachelor's degree from the Central University of Finance and Economics (CUFE) in 2021. My research interests encompass Graph Neural Networks, Data Mining, and Combinatorial Optimization.
 
 
 News
