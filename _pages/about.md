@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Huidong Wu"
+title: "WU Huidong"
 author_profile: true
 redirect_from: 
   - /about/
