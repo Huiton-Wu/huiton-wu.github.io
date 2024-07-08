@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WU Huidong"
+title: "WU Huidong &emsp 武晖栋"
 author_profile: true
 redirect_from: 
   - /about/
