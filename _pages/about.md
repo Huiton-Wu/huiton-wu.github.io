@@ -12,7 +12,7 @@ I am a joint Ph.D. candidate at the University of Chinese Academy of Sciences (U
 
 Latest News
 ======
-- [2024.08] I will be attending the Fifth Annual Academic Conference of the China Risk Management Branch, the Chinese Society of Optimization, Overall Planning, and Economic Mathematics. @Shanghai
+- [2024.08] I will be attending the Fifth Annual Academic Conference of the Risk Management Branch, the Chinese Society of Optimization, Overall Planning, and Economic Mathematics. @Shanghai
 - [2024.06] Our work was recognized as an Outstanding Paper at the 16th Annual Conference on Decision Sciences in China. @Qinhuangdao
 - [2024.06] Our work **Citation Advantage of Positive Words** is published on Scientometrics.
 
