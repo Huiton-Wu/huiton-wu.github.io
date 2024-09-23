@@ -12,7 +12,8 @@ I am a joint Ph.D. candidate at the University of Chinese Academy of Sciences (U
 
 Latest News
 ======
-- [2024.08] I have arrived in Hong Kong to begin my joint Ph.D. program at CityU. 
+- [2024.08] I have arrived in Hong Kong to begin my joint Ph.D. program at CityU.
+- [2024.08] Our work received the Best Paper Award at ITQM 2024.
 - [2024.08] I will be attending the Fifth Annual Academic Conference of the Risk Management Branch, the Chinese Society of Optimization, Overall Planning, and Economic Mathematics. *August 1-3 @Shanghai*
 - [2024.06] Our work was recognized as an Outstanding Paper at the 16th Annual Conference on Decision Sciences in China.
 - [2024.06] Our work **Integration of Multi-Source Scientific Categorization Labels** is accepted by ITQM 2024. 
