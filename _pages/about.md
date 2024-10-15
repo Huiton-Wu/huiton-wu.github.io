@@ -24,6 +24,6 @@ Latest News
 
 Selected Papers
 ======
-1. Wu Dengsheng, Wu Huidong, Li Jianping*. Hierarchy-Aware Adaptive Graph Neural Network. IEEE Transactions on Knowledge and Data Engineering (TKDE). (SCI, FMS B, CCF A)
+1. Wu Dengsheng, Wu Huidong, Li Jianping*. Hierarchy-Aware Adaptive Graph Neural Network. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. 
 2. Wu Dengsheng, Wu Huidong & Li Jianping (2024). Citation advantage of positive words: predictability, temporal evolution, and universality in varied quality journals. *Scientometrics*. https://doi.org/10.1007/s11192-024-05074-4
 
