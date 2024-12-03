@@ -12,6 +12,7 @@ I am a joint Ph.D. candidate at the University of Chinese Academy of Sciences (U
 
 Latest News
 ======
+- [2024.11] Our Science Popularization Volunteer Program, launched in 2022, has received continued funding from the University of Chinese Academy of Sciences Education Foundation for the period from January 2025 to December 2026. 
 - [2024.10] Our work **Hierarchy-Aware Adaptive Graph Neural Network** is accepted by IEEE TKDE 🎉.
 - [2024.08] I have arrived in Hong Kong to begin my joint Ph.D. program at CityU.
 - [2024.08] Our work received the Best Paper Award at ITQM 2024.
