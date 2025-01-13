@@ -12,15 +12,13 @@ I am a joint Ph.D. candidate at the University of Chinese Academy of Sciences (U
 
 Latest News
 ======
+- [2025.01] Global Top Journals List Across All Disciplines Successfully Published 🎉, Proud to Have Participated.
 - [2024.12] Our work **Accounting Fraud Detection through Textual Risk Disclosures** is accepted by Accounting & Finance. 
 - [2024.11] Our Science Popularization Volunteer Program, launched in 2022, has received continued funding from the University of Chinese Academy of Sciences Education Foundation for the period from January 2025 to December 2026. 
 - [2024.10] Our work **Hierarchy-Aware Adaptive Graph Neural Network** is accepted by IEEE TKDE 🎉.
 - [2024.08] I have arrived in Hong Kong to begin my joint Ph.D. program at CityU.
 - [2024.08] Our work received the Best Paper Award at ITQM 2024.
 - [2024.08] I will be attending the Fifth Annual Academic Conference of the Risk Management Branch, the Chinese Society of Optimization, Overall Planning, and Economic Mathematics. *August 1-3 @Shanghai*
-- [2024.06] Our work was recognized as an Outstanding Paper at the 16th Annual Conference on Decision Sciences in China.
-- [2024.06] Our work **Integration of Multi-Source Scientific Categorization Labels** is accepted by ITQM 2024. 
-- [2024.06] I will be attending the 16th Annual Conference on Decision Sciences in China. *June 28-30 @Qinhuangdao*
 
 
 Selected Papers
