@@ -12,7 +12,7 @@ I am a joint Ph.D. candidate at the University of Chinese Academy of Sciences (U
 
 Latest News
 ======
-- [2025.01] Global Top Journals List Across All Disciplines Successfully Published 🎉, Proud to Have Participated.
+- [2025.01] Global Top Journals List Across All Disciplines Successfully Launched 🎉, Proud to Have Participated.
 - [2024.12] Our work **Accounting Fraud Detection through Textual Risk Disclosures** is accepted by Accounting & Finance. 
 - [2024.11] Our Science Popularization Volunteer Program, launched in 2022, has received continued funding from the University of Chinese Academy of Sciences Education Foundation for the period from January 2025 to December 2026. 
 - [2024.10] Our work **Hierarchy-Aware Adaptive Graph Neural Network** is accepted by IEEE TKDE 🎉.
