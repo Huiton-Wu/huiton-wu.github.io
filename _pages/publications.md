@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Dengsheng Wu, **Huidong Wu**, Fan Meng, Jianping Li\*.(2025) Classifying Ultra-short Scientific Texts Using a Hybrid Hierarchical Multi-Label Classification Framework. *Journal of the Association for Information Science and Technology*. (SCI, FMS A, ABS 3)
+- Qiudan Su, **Huidong Wu**, Jing Li, Dengsheng Wu\*. (2025) Weighted Average Interval Percentile: Integratingthe multiple journal lists for journal rating. *Journal of Information Science*. (SCI, FMS B, ABS 2)
+- Dengsheng Wu, **Huidong Wu**, Fan Meng, Jianping Li\*.(2025) Classifying Ultra-short Scientific Texts Using a Hybrid Hierarchical Multi-Label Classification Framework. *Journal of the Association for Information Science and Technology (JASIST)*. (SCI, FMS A, ABS 3)
 - **武晖栋**,苏秋丹,吴登生.期刊评级结果聚合的线性组合优化算法研究.数据分析与知识发现,1-17. (FMS T2)
 - Xiaoqian Zhu, **Huidong Wu**, Yanpeng Chang, & Jianping Li\*. (2025) Accounting fraud detection through textual risk disclosures in annual reports: From the perspective of SEC guidelines. *Accounting & Finance*, 00, 1–26. Available from: https://doi.org/10.1111/acfi.13390 (SSCI, FMS C, ABS 2)
 - Dengsheng Wu, **Huidong Wu**, Jianping Li\*.(2025) Hierarchy-Aware Adaptive Graph Neural Network. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 37(1), 365-378. (SCI, FMS B, CCF A)
