@@ -1,1 +1,54 @@
+{% raw %}{% if page.url == "/" or page.permalink == "/" %}
+<div id="home-map" style="height:420px;margin-top:2rem;border-radius:12px;overflow:hidden;"></div>
+
+<!-- Leaflet & MarkerCluster 样式 -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="{{ '/leaflet_dist/MarkerCluster.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/leaflet_dist/MarkerCluster.Default.css' | relative_url }}">
+
+<!-- Leaflet & MarkerCluster 脚本 -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="{{ '/leaflet_dist/leaflet.markercluster.js' | relative_url }}"></script>
+
+<!-- 你的地点数据（本仓库已有 org-locations.js） -->
+<script src="{{ '/leaflet_dist/org-locations.js' | relative_url }}"></script>
+
+<script>
+(function() {
+  function ready(fn){ if(document.readyState!='loading'){fn()} else {document.addEventListener('DOMContentLoaded',fn)} }
+  ready(function(){
+    var el = document.getElementById('home-map');
+    if(!el) return;
+
+    var map = L.map(el, { scrollWheelZoom: false }).setView([20, 0], 2);
+
+    // 瓦片图层（OpenStreetMap）
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    // 兼容两种常见数据结构：window.orgLocations 或 window.addressPoints
+    var pts = (window.orgLocations || window.addressPoints || []);
+
+    var markers = L.markerClusterGroup();
+    pts.forEach(function(p){
+      // 支持 [lat, lon, title] 或 {lat, lng, title}
+      var isArr = Array.isArray(p);
+      var lat = isArr ? p[0] : (p.lat ?? p.latitude);
+      var lon = isArr ? p[1] : (p.lng ?? p.lon ?? p.longitude);
+      var title = isArr ? (p[2] || '') : (p.title || p.name || '');
+      if (lat != null && lon != null) {
+        markers.addLayer(L.marker([lat, lon]).bindPopup(title));
+      }
+    });
+
+    map.addLayer(markers);
+    if (markers.getLayers().length) {
+      map.fitBounds(markers.getBounds().pad(0.15));
+    }
+  });
+})();
+</script>
+{% endif %}{% endraw %}
 
