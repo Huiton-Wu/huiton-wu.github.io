@@ -11,7 +11,8 @@ I am a joint Ph.D. candidate at the University of Chinese Academy of Sciences (U
 
 Research Interests:
 <ul>
+  <li>Risk Analysis of Artificial Intelligence Algorithms</li>
   <li>Data-centric Graph Neural Networks</li>
   <li>Rank Aggregation Algorithms</li>
-  <li>Large Language Model and its Applications</li>
+  <li>Information Auditing Based on Large Language Models</li>
 </ul>
