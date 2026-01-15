@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Huidong Wu**, Jianping Li, Dengsheng Wu\*. (2026). Authenticity or self-advocacy? Identifying the credibility of positive words in scientific titles and abstracts. Scientometrics, 1-26. (SCI, FMS B, ABS 2)
 - Qiudan Su, **Huidong Wu**, Jing Li, Dengsheng Wu\*. (2025) Weighted Average Interval Percentile: Integratingthe multiple journal lists for journal rating. *Journal of Information Science*. (SCI, FMS B, ABS 2)
 - Dengsheng Wu, **Huidong Wu**, Fan Meng, Jianping Li\*.(2025) Classifying Ultra-short Scientific Texts Using a Hybrid Hierarchical Multi-Label Classification Framework. *Journal of the Association for Information Science and Technology (JASIST)*. (SCI, FMS A, ABS 3)
 - **武晖栋**,苏秋丹,吴登生.期刊评级结果聚合的线性组合优化算法研究.数据分析与知识发现,1-17. (FMS T2)
